@@ -6,6 +6,8 @@ A PSD to HTML conversion, I was given a file from which I extracted the images. 
 
 [Link to LIVE Site](https://la-mountians.netlify.app/)
 
+Github link (https://github.com/Atithi143/CT-test?tab=readme-ov-file)
+
 ## Table of Contents
 
 [Technologies](#technologies)<br>
